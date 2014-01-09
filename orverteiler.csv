@@ -9,18 +9,23 @@ F07    Leitungsschutzschalter 32     Vorsicherung Optionsräume Allgemein
 F08    Leitungsschutzschalter 32     Vorsicherung Küche Allgemmein                                       
 F09    FI/LS                  16     Fehlerstrom/Leitungsschutzschalter Kühlschrank/Automaten Küche      
 F40    Leitungschutzschalter  16     Küche-Herd                                                          
-F41    Leitungsschutzschalter 16     Küche-Steckdose links/rechts vom Herd Steckdose unter DLE E-Lab     
-F42    Leitungsschutzschalter 16     Küche-Steckdose Spülmaschine / Tresen Steckdose                     
-F43    Leitungsschutzschalter 16     Frauentoilette Steckdosen                                           
-F50    Leitungsschutzschalter 16     16A CEE-Dose OR2                                                    
+F41    Leitungsschutzschalter 10     Küche-Steckdose links/rechts vom Herd Steckdose                     
+F42    Leitungsschutzschalter 10     Küche Steckdose unter DLE E-Lab                                     
+F43    Leitungsschutzschalter 10     Küche-Steckdose Spülmaschine                                        
+F44    Leitungsschutzschalter 16     Küche Steckdose Tresen                                              
+F45    Leitungsschutzschalter 16     Frauentoilette Steckdosen                                           
+F50    Leitungsschutzschalter 16     OR2 16A CEE-Dose                                                    
 F51    Leitungsschutzschalter 16     Leitungsschutzschalter OR1.1                                        
 F52    Leitungsschutzschalter 16     Leitungsschutzschalter OR1.2                                        
-F53    Letungsschutzschalter  16     Leitungsschutzschalter OR2.1                                        
+F53    Leitungsschutzschalter 16     Leitungsschutzschalter OR2.1                                        
 F54    Leitungsschutzschalter 16     Leitungsschutzschalter OR2.2                                        
 F55    Leitungsschutzschalter 16     Leitungsschutzschalter OR3.1                                        
 F56    Leitungsschutzschalter 16     Leitungsschutzschalter OR3.2                                        
 F57    Leitungsschutzschalter 16     Leitungsschutzschalter OR4.1                                        
 F58    Leitungsschutzschalter 16     Leitungsschutzschalter OR4.2                                        
+F59    Leitungsschutzschalter 16     OR1 Steckdosen Wand Küche                                           
+F60    Leitungsschutzschalter 16     OR4 Laser Dauerstrom                                                
+F61    Leitungsschutzschalter 16     NC (In Zukunft OR1 NetworkSwitch)                                   
 Q01    Ausschalter            63     Ausschalter Gesamt                                                  
 Q02    Schütz                 40     Schütz Durchlauferhitzer Dusche                                     
 Q03    Schütz                 40     Schütz Durchlauferhitzer E-Lab                                      
