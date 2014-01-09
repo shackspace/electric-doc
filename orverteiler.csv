@@ -7,9 +7,10 @@ F05    LS/FI                  16     Leitungsschutzschalter/Fehlerstromschutzsch
 F06    Leitungsschutzschalter 16     Steuerstrom für Schütze                                             
 F07    Leitungsschutzschalter 32     Vorsicherung Optionsräume Allgemein                                 
 F08    Leitungsschutzschalter 32     Vorsicherung Küche Allgemmein                                       
+F09    FI/LS                  16     Fehlerstrom/Leitungsschutzschalter Kühlschrank/Automaten Küche      
 F40    Leitungschutzschalter  16     Küche-Herd                                                          
 F41    Leitungsschutzschalter 16     Küche-Steckdose links/rechts vom Herd Steckdose unter DLE E-Lab     
-F42    Leitungsschutzschalter 16     Küche-Steckdose Spülmaschine                                        
+F42    Leitungsschutzschalter 16     Küche-Steckdose Spülmaschine / Tresen Steckdose                     
 F43    Leitungsschutzschalter 16     Frauentoilette Steckdosen                                           
 F50    Leitungsschutzschalter 16     16A CEE-Dose OR2                                                    
 F51    Leitungsschutzschalter 16     Leitungsschutzschalter OR1.1                                        
