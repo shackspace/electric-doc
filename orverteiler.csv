@@ -1,0 +1,27 @@
+Kennz. Bezeichnung1           IN (A) Bezeichnung                                                         
+F01    RCD                    40     Fehlerstromschutzschalter Durchlauferhitzer                         
+F02    RCD                    40     Fehlerstromschutzschalter Optionsräume Allgemein                    
+F03    RCD                    40     Fehlerstromschutzschalter Küche Allgemein                           
+F04    Leitungsschutzschalter 32     Leitungsschutzschalter Durchlauferhitzer                            
+F05    LS/FI                  16     Leitungsschutzschalter/Fehlerstromschutzschalter Licht und vereinzel
+F06    Leitungsschutzschalter 16     Steuerstrom für Schütze                                             
+F07    Leitungsschutzschalter 32     Vorsicherung Optionsräume Allgemein                                 
+F08    Leitungsschutzschalter 32     Vorsicherung Küche Allgemmein                                       
+F40    Leitungschutzschalter  16     Küche-Herd                                                          
+F41    Leitungsschutzschalter 16     Küche-Steckdose links/rechts vom Herd Steckdose unter DLE E-Lab     
+F42    Leitungsschutzschalter 16     Küche-Steckdose Spülmaschine                                        
+F43    Leitungsschutzschalter 16     Frauentoilette Steckdosen                                           
+F50    Leitungsschutzschalter 16     16A CEE-Dose OR2                                                    
+F51    Leitungsschutzschalter 16     Leitungsschutzschalter OR1.1                                        
+F52    Leitungsschutzschalter 16     Leitungsschutzschalter OR1.2                                        
+F53    Letungsschutzschalter  16     Leitungsschutzschalter OR2.1                                        
+F54    Leitungsschutzschalter 16     Leitungsschutzschalter OR2.2                                        
+F55    Leitungsschutzschalter 16     Leitungsschutzschalter OR3.1                                        
+F56    Leitungsschutzschalter 16     Leitungsschutzschalter OR3.2                                        
+F57    Leitungsschutzschalter 16     Leitungsschutzschalter OR4.1                                        
+F58    Leitungsschutzschalter 16     Leitungsschutzschalter OR4.2                                        
+Q01    Ausschalter            63     Ausschalter Gesamt                                                  
+Q02    Schütz                 40     Schütz Durchlauferhitzer Dusche                                     
+Q03    Schütz                 40     Schütz Durchlauferhitzer E-Lab                                      
+Q04    Schütz                 40     Schütz Bereich Optionsräume                                         
+Q05    Schütz                 40     Schütz Bereich Küche                                                
