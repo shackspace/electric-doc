@@ -3,7 +3,7 @@ F01    RCD                    40     Fehlerstromschutzschalter Durchlauferhitzer
 F02    RCD                    40     Fehlerstromschutzschalter Optionsräume Allgemein                    
 F03    RCD                    40     Fehlerstromschutzschalter Küche Allgemein                           
 F04    Leitungsschutzschalter 32     Leitungsschutzschalter Durchlauferhitzer                            
-F05    LS/FI                  16     Leitungsschutzschalter/Fehlerstromschutzschalter Licht und vereinzel
+F05    LS/FI                  16     Leitungsschutzschalter/Fehlerstromschutzschalter OR Licht und SD bei Lichtschalter
 F06    Leitungsschutzschalter 16     Steuerstrom für Schütze                                             
 F07    Leitungsschutzschalter 32     Vorsicherung Optionsräume Allgemein                                 
 F08    Leitungsschutzschalter 32     Vorsicherung Küche Allgemmein                                       
@@ -15,7 +15,7 @@ F43    Leitungsschutzschalter 10     Küche-Steckdose Spülmaschine
 F44    Leitungsschutzschalter 16     Küche Steckdose Tresen                                              
 F45    Leitungsschutzschalter 16     Frauentoilette Steckdosen                                           
 F50    Leitungsschutzschalter 16     OR2 16A CEE-Dose                                                    
-F51    Leitungsschutzschalter 16     Leitungsschutzschalter OR1.1                                        
+F51    Leitungsschutzschalter 16     Leitungsschutzschalter OR1.1 / OR1 Ätzecke                                        
 F52    Leitungsschutzschalter 16     Leitungsschutzschalter OR1.2                                        
 F53    Leitungsschutzschalter 16     Leitungsschutzschalter OR2.1                                        
 F54    Leitungsschutzschalter 16     Leitungsschutzschalter OR2.2                                        
