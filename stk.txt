@@ -22,5 +22,5 @@
 22 Küche Steckdosen Tresen
 23 OR1 Steckdose Wand in Richtung Küche 
 24 OR4 Dauerstrom Steckdose
-25 OR1 NC (für Switch)
+25 OR1 Dauerstrom Netzwerkrack/Switch
 26 OR1 Steckdosen Aetzecke
