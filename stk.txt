@@ -5,7 +5,7 @@
 5 Küche Herd L2 L3
 6 OR2-4 Licht/Steckdose
 7 Flur / OR1 Licht/Steckdose
-8 Klo Frauen Steckdose
+8 Klo Frauen Steckdose oben
 9 OR1.1
 10 OR1.2
 11 OR2.1
@@ -19,7 +19,7 @@
 19 Küche Kühlschrank 
 20 Reserve (endet in Lounge)
 21 Küche Automaten
-22 Küche Steckdosen Tresen
+22 Küche Steckdosen Tresen / Beleuchtung Küche
 23 OR1 Steckdose Wand in Richtung Küche 
 24 OR4 Dauerstrom Steckdose
 25 OR1 Dauerstrom Netzwerkrack/Switch
