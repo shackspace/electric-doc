@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kueche_tresen_beleuchtung.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80231747"
+     inkscape:cx="130.88508"
+     inkscape:cy="372.04724"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect3419"
+       width="1060"
+       height="750"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="197.36452"
+       y="584.96613"
+       id="text3056"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="197.36452"
+         y="584.96613"
+         style="font-size:18px"
+         id="tspan3070">1: Phase</tspan><tspan
+         sodipodi:role="line"
+         x="197.36452"
+         y="607.46613"
+         id="tspan3060"
+         style="font-size:18px">2: Licht Küche</tspan><tspan
+         sodipodi:role="line"
+         x="197.36452"
+         y="629.96613"
+         id="tspan3062"
+         style="font-size:18px">3: NC</tspan><tspan
+         sodipodi:role="line"
+         x="197.36452"
+         y="652.46613"
+         id="tspan3064"
+         style="font-size:18px">4: Tresen</tspan><tspan
+         sodipodi:role="line"
+         x="197.36452"
+         y="674.96613"
+         id="tspan3066"
+         style="font-size:18px">5: Lager</tspan><tspan
+         sodipodi:role="line"
+         x="197.36452"
+         y="697.46613"
+         id="tspan3068"
+         style="font-size:18px">6: Phase</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63046187px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.89356,672.12938 0,32.21784 -15.890802,27.52369"
+       id="path3074-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63046187px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.75282,692.5602 0,10.21541 -15.89081,27.52369"
+       id="path3074-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63046187px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.10776,692.57053 27.50304,0"
+       id="path3119"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63046187px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.10776,724.78837 0,36.14685"
+       id="path3121"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63046187px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.33654,724.77016 0,36.14685"
+       id="path3121-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63046187px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.01738,557.80049 0,32.21784 -15.890807,27.52369"
+       id="path3074-7-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63046187px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.23158,610.45948 0,36.14684"
+       id="path3121-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.21847534px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="115.54798"
+       y="767.52039"
+       id="text3162"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3164"
+         x="115.54798"
+         y="767.52039"
+         style="font-size:18px">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.21847534px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="143.67728"
+       y="768.40143"
+       id="text3166"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="143.67728"
+         y="768.40143"
+         id="tspan3170"
+         style="font-size:18px">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.21847534px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="115.29749"
+       y="678.64923"
+       id="text3166-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="115.29749"
+         y="678.64923"
+         id="tspan3170-7"
+         style="font-size:18px">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.21847534px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="115.39417"
+       y="565.27075"
+       id="text3195"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3197"
+         x="115.39417"
+         y="565.27075"
+         style="font-size:18px">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.21847534px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="115.6974"
+       y="646.99402"
+       id="text3199"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3201"
+         x="115.6974"
+         y="646.99402"
+         style="font-size:18px">2</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect3203"
+       width="86.00087"
+       height="76.029755"
+       x="513.51245"
+       y="511.92194" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 585.80302,588.08212 0,82.8849 c 2.01806,75.4038 66.05864,71.28474 66.05864,1.24639 0,0 0.0834,-8.46447 0.0834,-124.88654 0,-38.07764 1.5204,-44.62242 38.55469,-44.62242 140.86354,0 194.43675,0 194.43675,0"
+       id="path3205"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 557.75924,588.07383 0,82.1059 c 0,107.89225 114.66783,109.92282 114.66783,1.24639 0,0 0.0834,22.69527 0.0834,-93.7268 0,-38.07764 1.5204,-44.62242 38.55469,-44.62242 140.86352,0 173.24824,0 173.24824,0"
+       id="path3205-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 531.58506,588.07383 0,93.3234 c 3.42343,127.91466 159.53785,129.86507 159.53785,1.24639 0,0 0.0834,42.6375 0.0834,-73.78457 0,-38.07764 1.5204,-44.62242 38.55469,-44.62242 140.8636,0 155.7987,0 155.7987,0"
+       id="path3205-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="711.53241"
+       y="497.71887"
+       id="text3232"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3234"
+         x="711.53241"
+         y="497.71887"
+         style="font-size:18px">3x2,5 Zuleitung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="711.53241"
+       y="528.47119"
+       id="text3232-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3234-1"
+         x="711.53241"
+         y="528.47119"
+         style="font-size:18px">5x2,5 Tresen/Lager</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="711.53241"
+       y="560.36609"
+       id="text3232-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3234-6"
+         x="711.53241"
+         y="560.36609"
+         style="font-size:18px">3x1,5 Licht Küche</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="556.45142"
+       y="545.12042"
+       id="text3232-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3234-1-8"
+         x="556.45142"
+         y="545.12042"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">AP</tspan><tspan
+         sodipodi:role="line"
+         x="556.45142"
+         y="567.62042"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         id="tspan3293">Verteiler</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="725.39874"
+       y="629.83612"
+       id="text3295"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="725.39874"
+         y="629.83612"
+         id="tspan3303"
+         style="font-size:18px;stroke:none">Belegung: 5x2,5 Tresen/Lager</tspan><tspan
+         sodipodi:role="line"
+         x="725.39874"
+         y="652.33612"
+         id="tspan3305"
+         style="font-size:18px;stroke:none">L1 Licht Tresen</tspan><tspan
+         sodipodi:role="line"
+         x="725.39874"
+         y="674.83612"
+         id="tspan3307"
+         style="font-size:18px;stroke:none">L2 Licht Vorratslager</tspan><tspan
+         sodipodi:role="line"
+         x="725.39874"
+         y="697.33612"
+         id="tspan3309"
+         style="font-size:18px;stroke:none">L3 Phase Dauerhaft</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.19217706px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 512.30179,549.93683 -76.17346,0"
+       id="path5523"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="path5527"
+       sodipodi:cx="283.55359"
+       sodipodi:cy="368.30807"
+       sodipodi:rx="40.507656"
+       sodipodi:ry="40.507656"
+       d="m 324.06124,368.30807 a 40.507656,40.507656 0 1 1 -81.01531,0 40.507656,40.507656 0 1 1 81.01531,0 z"
+       transform="translate(111.85644,181.62876)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="395.00574"
+       y="545.12042"
+       id="text3232-9-0-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="395.00574"
+         y="545.12042"
+         style="font-size:18px;text-align:center;text-anchor:middle"
+         id="tspan3293-1">UP</tspan><tspan
+         sodipodi:role="line"
+         x="395.00574"
+         y="567.62042"
+         style="font-size:18px;text-align:center;text-anchor:middle"
+         id="tspan5555">Dose</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 375.59823,685.9237 44.87001,0"
+       id="path5557"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 375.59823,705.86593 c 12.36062,-13.8456 22.9768,-36.99488 44.87001,0"
+       id="path5557-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 398.03324,684.6773 0,-93.4792"
+       id="path5577"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="368.11987"
+       y="738.27203"
+       id="text5579"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5581"
+         x="368.11987"
+         y="738.27203"
+         style="font-size:18px">3x1,5</tspan><tspan
+         sodipodi:role="line"
+         x="368.11987"
+         y="760.77203"
+         style="font-size:18px"
+         id="tspan5585">Steckdosen</tspan><tspan
+         sodipodi:role="line"
+         x="368.11987"
+         y="783.27203"
+         style="font-size:18px"
+         id="tspan5589">Li. v. Tresen </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 374.90239,680.93813 44.87001,0"
+       id="path5557-29"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="79.015312"
+       y="534.6322"
+       id="text5609"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5611"
+         x="79.015312"
+         y="534.6322"
+         style="font-size:18px">Schalter</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 355.65599,548.82086 -164.5234,0"
+       id="path5613"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="203.59647"
+       y="542.58887"
+       id="text5615"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="203.59647"
+         y="542.58887"
+         style="font-size:18px"
+         id="tspan5619">7x1,5 Schalter</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 467.39603,250.52427 19.31904,-19.31903"
+       id="path5623"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="473.62796"
+       y="535.1106"
+       id="text5625"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5627"
+         x="473.62796"
+         y="535.1106"
+         style="font-size:18px">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.62919903px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="440.42929"
+       y="570.32654"
+       id="text3047"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3049"
+         x="440.42929"
+         y="570.32654"
+         style="font-size:12px">sw: Phase</tspan><tspan
+         sodipodi:role="line"
+         x="440.42929"
+         y="585.32654"
+         id="tspan3051"
+         style="font-size:12px">sw: Tresen</tspan><tspan
+         sodipodi:role="line"
+         x="440.42929"
+         y="600.32654"
+         id="tspan3053"
+         style="font-size:12px">br: Küche</tspan><tspan
+         sodipodi:role="line"
+         x="440.42929"
+         y="615.32654"
+         id="tspan3055"
+         style="font-size:12px">br: Lager</tspan></text>
+  </g>
+</svg>
