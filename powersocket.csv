@@ -1,0 +1,257 @@
+Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicherung, Raumbez-new, Bezeichnung
+1.1,,R50,HUV.,,Werkstatt,Wand
+1.2,,R50,HUV.,,Werkstatt,Wand
+1.3,,R50,HUV.,,Werkstatt,Wand
+1.4,,R50,HUV.,,Werkstatt,Wand
+1.5,,R50,HUV.,,Werkstatt,Wand
+1.6,,R50,HUV.,,Werkstatt,Kabelkanal
+1.7,,R50,HUV.,,Werkstatt,Kabelkanal
+1.8,,R50,HUV.,,Werkstatt,Kabelkanal
+1.9,,R50,HUV.,,Werkstatt,Kabelkanal
+1.10,,R50,HUV.,,Werkstatt,Kabelkanal
+1.11,,R50,HUV.,,Werkstatt,Kabelkanal
+1.12,,R50,HUV.,,Werkstatt,Kabelkanal
+1.13,,R50,HUV.,,Werkstatt,Kabelkanal
+1.14,,R50,HUV.,,Werkstatt,Kabelkanal
+1.15,,R50,HUV.,,Werkstatt,Kabelkanal
+1.16,,R50,HUV.,,Werkstatt,Kabelkanal
+1.17,,R50,HUV.,,Werkstatt,Wand CEE32A
+1.18,,R50,HUV.,,Werkstatt,Wand unter Stromverteiler
+1.19,,R50,HUV.,,Werkstatt,Wand unter Stromverteiler
+2.1,,R48,HUV.,,Medialab,Kabelkanal
+2.2,,R48,HUV.,,Medialab,Kabelkanal
+2.3,,R48,HUV.,,Medialab,Kabelkanal
+2.4,,R48,HUV.,,Medialab,Kabelkanal
+2.5,,R48,HUV.,,Medialab,Kabelkanal
+2.6,,R48,HUV.,,Medialab,Kabelkanal
+2.7,,R48,HUV.,,Medialab,Kabelkanal
+2.8,,R48,HUV.,,Medialab,Kabelkanal
+2.9,,R48,HUV.,,Medialab,Kabelkanal
+2.10,,R48,HUV.,,Medialab,Kabelkanal
+2.11,,R48,HUV.,,Medialab,Kabelkanal
+2.12,,R48,HUV.,,Medialab,Kabelkanal
+2.13,,R48,HUV.,,Medialab,Kabelkanal
+3.1,S13,R46,HUV.STK12,HUV.F09,Ruhearbeitsraum,Kabelkanal Dauerstrom
+3.2,S13,R46,HUV.STK12,HUV.F09,Ruhearbeitsraum,Kabelkanal Dauerstrom
+3.3,S12,R46,HUV.STK03,HUV.F27,Ruhearbeitsraum,Kabelkanal
+3.4,S12,R46,HUV.STK03,HUV.F27,Ruhearbeitsraum,Kabelkanal
+3.5,S11,R46,HUV.STK02,HUV.F26,Ruhearbeitsraum,Kabelkanal
+3.6,S11,R46,HUV.STK02,HUV.F26,Ruhearbeitsraum,Kabelkanal
+3.7,S10,R46,HUV.STK02,HUV.F26,Ruhearbeitsraum,Kabelkanal
+3.8,S10,R46,HUV.STK02,HUV.F26,Ruhearbeitsraum,Kabelkanal
+3.9,S10,R46,HUV.STK02,HUV.F26,Ruhearbeitsraum,Kabelkanal
+3.10,-,R46,HUV.STK03,HUV.F27,Ruhearbeitsraum,Wand
+3.11,-,R46,HUV.STK03,HUV.F27,Ruhearbeitsraum,Wand
+3.12,-,R46,HUV.STK03,HUV.F27,Ruhearbeitsraum,Wand
+3.13,-,R46,HUV.STK03,HUV.F27,Ruhearbeitsraum,Wand
+3.14,-,R46,HUV.STK03,HUV.F27,Ruhearbeitsraum,Wand
+3.15,-,R46,HUV.STK03,HUV.F27,Ruhearbeitsraum,Wand
+4.1,,R44,HUV.,,Getraenkelager,Kabelkanal
+4.2,,R44,HUV.,,Getraenkelager,Kabelkanal
+4.3,,R44,HUV.,,Getraenkelager,Kabelkanal
+4.4,,R44,HUV.,,Getraenkelager,Kabelkanal
+4.5,,R44,HUV.,,Getraenkelager,Kabelkanal
+4.6,,R44,HUV.,,Getraenkelager,Kabelkanal
+4.7,,R44,HUV.,,Getraenkelager,Kabelkanal
+5.1,,R42,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.2,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.3,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.4,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.5,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.6,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.7,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.8,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.9,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.10,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.11,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.12,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.13,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.14,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.15,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.16,-,R43,HUV.STK08,HUV.F32,Lounge,Steckdose WDM
+5.17,-,R43,HUV.STK08,HUV.F32,Lounge,Steckdose WDM
+5.18,,,HUV.STK08,HUV.F32,Lounge,kabelkanal Richtung Neckar
+5.19,,,HUV.,,Lounge,kabelkanal Richtung Neckar
+5.20,,,HUV.,,Lounge,kabelkanal Richtung Neckar
+5.21,,,HUV.,,Lounge,kabelkanal Richtung Neckar
+5.22,,,HUV.STK08,HUV.F32,Lounge,kabelkanal Richtung Neckar
+5.23,,,HUV.STK08,HUV.F32,Lounge,kabelkanal Richtung Neckar
+5.24,,,HUV.,,Lounge,kabelkanal Richtung Neckar
+5.25,,,HUV.,,Lounge,kabelkanal Richtung Neckar
+5.26,,,HUV.,,Lounge,Kabelkanal Richtung Neckar
+5.27,,,HUV.STK08,HUV.F32,Lounge,Kabelkanal Richtung Neckar
+5.28,,,HUV.STK08,HUV.F32,Lounge,Kabelkanal Richtung Neckar
+5.29,,,HUV.,,Lounge,Kabelkanal Richtung Neckar
+5.30,,,HUV.,,Lounge,Kabelkanal Richtung Neckar
+5.31,,,HUV.,,Lounge,Wand Tuer Lager
+5.32,,,HUV.STK25,,Lounge,Portal Dauerstrom
+5.33,,,HUV.STK25,,Lounge,Portal Dauerstrom
+5.34,,,HUV.,,Lounge,Ecke Richtung Kueche oben
+5.35,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
+5.36,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
+5.37,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
+5.38,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
+5.39,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
+5.40,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
+5.41,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
+5.42,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
+5.43,-,-,HUV.,,Lounge,Ecke Richtung Kueche unten
+5.44,-,-,HUV.,,Lounge,CEE 32A
+6.1,S47,-,HUV.STK10,HUV.F34,Treppenhaus Musiker,Kabelkanal
+6.2,S47,-,HUV.STK10,HUV.F34,Treppenhaus Musiker,Kabelkanal
+6.3,S48,-,HUV.STK10,HUV.F35,Treppenhaus Musiker,Kabelkanal
+6.4,S48,-,HUV.STK10,HUV.F35,Treppenhaus Musiker,Kabelkanal
+7.1,S46,R39,HUV.STK11,HUV.F35,Lager,Kabelkanal
+7.2,S46,R39,HUV.STK11,HUV.F35,Lager,Kabelkanal
+7.3,S25,R39,HUV.STK10,HUV.F34,Lager,Kabelkanal
+7.4,S25,R39,HUV.STK10,HUV.F34,Lager,Kabelkanal
+7.5,S24,R39,HUV.STK11,HUV.F35,Lager,Kabelkanal
+7.6,S24,R39,HUV.STK11,HUV.F35,Lager,Kabelkanal
+8.1,S32,R45,HUV.STK09,,Seminarraum,Kabelkanal
+8.2,S32,R45,HUV.STK09,,Seminarraum,Kabelkanal
+8.3,S33,R45,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.4,S33,R45,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.5,S34,R45,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.6,S35,R47,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.7,S35,R47,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.8,S36,R47,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.9,S36,R47,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.10,S37,R49,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.11,S38,R49,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.12,S38,R49,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.13,S39,R49,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.14,S39,R49,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.15,S40,R49,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
+8.16,-,R45,HUV.STK08,HUV.F32,Seminarraum,Wand Richtung Lounge
+8.17,-,R45,HUV.STK08,HUV.F32,Seminarraum,Wand Richtung Lounge
+8.18,-,R49,HUV.,,Seminarraum,Wand neben tür
+8.19,-,R49,HUV.STK24,NC,Seminarraum,Wand Ecke RZ
+9.1,,R51,,,RZ,Kabelkanal
+9.2,,R51,,,RZ,Kabelkanal
+9.3,,R51,,,RZ,Kabelkanal
+9.4,,R51,,,RZ,Kabelkanal
+9.5,,R51,,,RZ,Kabelkanal
+9.6,,R51,,,RZ,Kabelkanal
+9.7,,R51,,,RZ,Kabelkanal
+9.8,,R51,,,RZ,Wand
+9.9,,R51,,,RZ,Wand
+9.10,,R51,,,RZ,Wand
+9.11,,R51,,,RZ,Wand
+9.12,,R51,,,RZ,Wand
+9.13,,R51,,,RZ,Gitterrinne
+9.14,,R51,,,RZ,Gitterrinne
+9.15,,R51,,,RZ,Gitterrinne
+9.16,,R51,,,RZ,Gitterrinne
+10.1,OR.S2,-,ORV.STK07,,OR1,Wand Tuer
+10.2,-,-,ORV.STK25,,OR1,Aetzecke
+10.3,-,-,ORV.STK25,,OR1,Aetzecke
+10.4,-,-,ORV.STK25,,OR1,Aetzecke
+10.5,-,-,ORV.STK25,,OR1,Aetzecke
+10.6,-,-,ORV.STK01,,OR1,unterhalt DLE
+10.7,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
+10.8,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
+10.9,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
+10.10,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
+10.11,OR.S3,-,ORV.STK10,,OR1,OR1.2 Kabelkanal Fenster
+10.12,OR.S4,-,ORV.STK10,,OR1,OR1.2 Kabelkanal Fenster
+10.13,OR.S5,-,ORV.STK09,,OR1,OR1.1 Kabelkanal Fenster
+10.14,OR.S6,-,ORV.STK09,,OR1,OR1.1 Kabelkanal Fenster
+10.15,OR.S7,-,ORV.STK09,,OR1,OR1.1 Kabelkanal Fenster
+10.16,OR.S8,-,ORV.STK09,,OR1,OR1.1 Kabelkanal Fenster
+10.17,-,-,ORV.STK25,,OR1,Dauerstrom 19 Zoll Rack
+10.18,-,-,ORV.STK25,,OR1,Dauerstrom 19 Zoll Rack
+11.1,OR.S9,-,,,OR2,Wand Richtung OR1
+11.2,OR.S10,-,,,OR2,Kabelkanal Fenster
+11.3,OR.S11,-,,,OR2,Kabelkanal Fenster
+11.4,OR.S12,-,,,OR2,Kabelkanal Fenster
+11.5,OR.S13,-,,,OR2,Kabelkanal Fenster
+11.6,OR.S14,-,,,OR2,Kabelkanal Fenster
+11.7,OR.S15,-,,,OR2,Kabelkanal Fenster
+11.8,OR.S16,-,,,OR2,Kabelkanal Fenster
+11.9,OR.S17,-,,,OR2,Kabelkanal Fenster
+11.10,OR.S18,-,,,OR2,Wand Richtung OR3
+11.11,-,-,ORV.STK17/18,,OR2,Wand Fenster CEE16
+12.1,OR.S21,,-,,OR3,
+12.2,OR.S22,,-,,OR3,
+12.3,OR.S23,,-,,OR3,
+12.4,OR.S24,,-,,OR3,
+12.5,OR.S25,,-,,OR3,
+12.6,OR.S26,,-,,OR3,
+12.7,OR.S27,,-,,OR3,
+12.8,OR.S28,,-,,OR3,
+12.9,-,-,,,OR3,Stickmaschine rechts
+12.10,-,-,,,OR3,Stickmaschine rechts
+12.11,-,-,,,OR3,Stickmaschine rechts
+12.12,-,-,,,OR3,Stickmaschine links
+12.13,-,-,,,OR3,Stickmaschine links
+12.14,-,-,,,OR3,Stickmaschine links
+12.15,-,-,,,OR3,Wand neben Tuer
+12.16,-,-,,,OR3,Wand neben Tuer
+13.1,OR.S29,-,,,OR4,Kabelkanal Fenster
+13.2,OR.S30,-,,,OR4,Kabelkanal Fenster
+13.3,OR.S31,-,,,OR4,Kabelkanal Fenster
+13.4,OR.S32,-,,,OR4,Kabelkanal Fenster
+13.5,OR.S33,-,,,OR4,Kabelkanal Fenster
+13.6,OR.S34,-,,,OR4,Kabelkanal Fenster
+13.7,OR.S35,-,,,OR4,Kabelkanal Fenster
+13.8,OR.S36,-,,,OR4,Kabelkanal Fenster
+13.9,OR.S37,-,,,OR,Kabelkanal Fenster
+13.10,OR.S38,-,,,OR,Kabelkanal Fenster
+13.11,OR.S39,-,,,OR,Kabelkanal Fenster
+13.12,-,-,ORV.STK24,,OR4,Kabelkanal Fenster Dauerstrom
+13.13,-,-,ORV.STK24,,OR4,Kabelkanal Fenster Dauerstrom
+13.14,-,-,ORV.STK24,,OR4,Kabelkanal Fenster Dauerstrom
+13.15,OR.S40,-,,,OR4,Kabelkanal Fenster
+13.16,OR.S41,-,,,OR4,Kabelkanal Fenster
+13.17,OR.S42,-,,,OR4,Kabelkanal Fenster
+13.18,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
+13.19,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
+13.20,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
+13.21,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
+13.22,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
+13.23,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
+13.24,OR.S43,-,,,OR4,Kabelkanal Ecke
+13.25,OR.S44,-,,,OR4,Kabelkanal Ecke
+13.26,OR.S45,-,,,OR4,Kabelkanal Ecke
+14.1,OR.S19,-,,,OR Minilager,Neben Lichtschalter
+14.2,OR.S20,-,,,OR Minilager,Neben Lichtschalter
+14.3,-,-,,,OR Minilager,Steckdose NC oben
+15.1,OR.S1,-,,,OR-Flur,Wand
+16.1,,-,,,Main-Flur,Wand
+16.2,,-,,,Main-Flur,Wand
+16.3,,-,,,Main-Flur,Wand
+17.1,,,,,Kueche Bistro,
+17.2,,,,,Kueche Bistro,
+17.3,,,,,Kueche Bistro,
+17.4,,,,,Kueche Bistro,
+17.5,,,,,Kueche Bistro,
+17.6,,,,,Kueche Bistro,
+17.7,,,,,Kueche Bistro,
+17.8,,,,,Kueche Bistro,
+17.9,,,,,Kueche Bistro,
+17.10,,,,,Kueche Bistro,
+17.11,,,,,Kueche Bistro,
+17.12,,,,,Kueche Bistro,
+17.13,,,,,Kueche Bistro,
+17.14,,,,,Kueche Bistro,
+17.15,,,,,Kueche Bistro,
+17.16,,,,,Kueche Bistro,
+17.17,,,,,Kueche Bistro,
+17.18,,,,,Kueche Bistro,
+17.19,,,,,Kueche Bistro,
+17.20,,,,,Kueche Bistro,
+17.21,,,,,Kueche Bistro,
+17.22,-,-,,ORV.,Kueche Bistro,Tresen
+17.23,-,-,,,Kueche Bistro,Tresen
+17.24,-,-,,,Kueche Bistro,Tresen
+17.25,-,-,,,Kueche Bistro,Tresen
+17.26,-,,,,Kueche Bistro,
+17.27,-,,,,Kueche Bistro,
+17.28,-,,,,Kueche Bistro,
+18.1,-,-,,,Klo,am Spiegellicht
+18.2,-,-,ORV.,,Klo,neben Tuer
+18.3,-,-,ORV.,,Klo,neben Tuer
+18.4,-,-,ORV.,,Klo,ueber DLE
+18.5,-,-,ORV.,,Klo,ueber DLE
+19.1,-,-,,,Aufzugsvorraum,Wand
+19.2,-,-,,,Aufzugsvorraum,Wand
