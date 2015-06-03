@@ -107,6 +107,7 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 7.4,S25,R39,HUV.STK10,HUV.F34,Lager,Kabelkanal
 7.5,S24,R39,HUV.STK11,HUV.F35,Lager,Kabelkanal
 7.6,S24,R39,HUV.STK11,HUV.F35,Lager,Kabelkanal
+7.7,-,R39,HUV,HUV,Lager,Wand Tuer
 8.1,S32,R45,HUV.STK09,,Seminarraum,Kabelkanal
 8.2,S32,R45,HUV.STK09,,Seminarraum,Kabelkanal
 8.3,S33,R45,HUV.STK08,HUV.F32,Seminarraum,Kabelkanal
