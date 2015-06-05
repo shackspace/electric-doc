@@ -221,10 +221,10 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 16.1,,-,,,Main-Flur,Wand
 16.2,,-,,,Main-Flur,Wand
 16.3,,-,,,Main-Flur,Wand
-17.1,,,,,Kueche Bistro,
-17.2,,,,,Kueche Bistro,
-17.3,,,,,Kueche Bistro,
-17.4,,,,,Kueche Bistro,
+17.1,S49,-,HUV.STK10,HUV.F34,Kueche Bistro,Kabelkanal Fenster
+17.2,S49,-,HUV.STK10,HUV.F34,Kueche Bistro,Kabelkanal Fenster
+17.3,S50,-,HUV.STK11,HUV.F35,Kueche Bistro,Kabelkanal Fenster
+17.4,S50,-,HUV.STK11,HUV.F35,Kueche Bistro,Kabelkanal Fenster
 17.5,,,,,Kueche Bistro,
 17.6,,,,,Kueche Bistro,
 17.7,,,,,Kueche Bistro,
