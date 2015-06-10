@@ -148,7 +148,7 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 10.3,-,-,ORV.STK25,,OR1,Aetzecke
 10.4,-,-,ORV.STK25,,OR1,Aetzecke
 10.5,-,-,ORV.STK25,,OR1,Aetzecke
-10.6,-,-,ORV.STK01,,OR1,unterhalt DLE
+10.6,-,-,ORV.STK01,ORV.F41,OR1,unterhalb DLE
 10.7,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
 10.8,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
 10.9,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
@@ -227,30 +227,31 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 17.2,S49,-,HUV.STK10,HUV.F34,Kueche Bistro,Kabelkanal Fenster
 17.3,S50,-,HUV.STK11,HUV.F35,Kueche Bistro,Kabelkanal Fenster
 17.4,S50,-,HUV.STK11,HUV.F35,Kueche Bistro,Kabelkanal Fenster
-17.5,,,,,Kueche Bistro,
-17.6,,,,,Kueche Bistro,
-17.7,,,,,Kueche Bistro,
-17.8,,,,,Kueche Bistro,
-17.9,,,,,Kueche Bistro,
-17.10,,,,,Kueche Bistro,
-17.11,,,,,Kueche Bistro,
-17.12,,,,,Kueche Bistro,
-17.13,,,,,Kueche Bistro,
-17.14,,,,,Kueche Bistro,
-17.15,,,,,Kueche Bistro,
-17.16,,,,,Kueche Bistro,
-17.17,,,,,Kueche Bistro,
-17.18,,,,,Kueche Bistro,
-17.19,,,,,Kueche Bistro,
-17.20,,,,,Kueche Bistro,
-17.21,,,,,Kueche Bistro,
-17.22,-,-,,ORV.,Kueche Bistro,Tresen
-17.23,-,-,,,Kueche Bistro,Tresen
-17.24,-,-,,,Kueche Bistro,Tresen
-17.25,-,-,,,Kueche Bistro,Tresen
-17.26,-,,,,Kueche Bistro,
-17.27,-,,,,Kueche Bistro,
-17.28,-,,,,Kueche Bistro,
+17.5,-,-,ORV.STK21,ORV.F09,Kueche Bistro,Automaten
+17.6,-,-,ORV.STK21,ORV.F09,Kueche Bistro,Automaten
+17.7,-,-,ORV.STK21,ORV.F09,Kueche Bistro,Automaten
+17.8,-,-,ORV.STK21,ORV.F09,Kueche Bistro,Automaten
+17.9,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Wand Tresen richtung Aufzug
+17.10,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Wand Tresen richtung Aufzug
+17.11,-,-,NC,-,Kueche Bistro,Kueche bei Lichtschalter
+17.12,-,-,ORV.STK01,ORV.F41,Kueche Bistro,hinter Kaffeemaschine
+17.13,-,-,ORV.STK01,ORV.F41,Kueche Bistro,hinter Kaffeemaschine
+17.14,-,-,ORV.STK01,ORV.F41,Kueche Bistro,neben der Spüle
+17.15,-,-,ORV.STK02,ORV.F42,Kueche Bistro,unter der Spüle
+17.16,-,-,ORV.STK19,ORV.F09,Kueche Bistro,Kühlschrank
+17.17,-,-,ORV.STK19,ORV.F09,Kueche Bistro,Kühlschrank
+17.18,-,-,,,Kueche Bistro,Vorratslager Wand richtung Lounge
+17.19,-,-,,,Kueche Bistro,Vorratslager Wand richtung Lounge
+17.20,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Vorratslager Wand richtung Tresen
+17.21,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Vorratslager Wand richtung Tresen
+17.22,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Tresen
+17.23,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Tresen
+17.24,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Tresen
+17.25,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Tresen
+17.26,-,-,ORV.STK22,ORV.F44,Kueche Bistro,In der Tresenbeleuchtung
+17.27,-,-,ORV.STK22,ORV.F44,Kueche Bistro,In der Tresenbeleuchtung
+17.28,-,-,ORV.STK22,ORV.F44,Kueche Bistro,In der Tresenbeleuchtung
+17.- ,-,-,ORV.STK03,ORV.F43,Kueche Bistro,Spülmaschine
 18.1,-,-,,,Klo,am Spiegellicht
 18.2,-,-,ORV.,,Klo,neben Tuer
 18.3,-,-,ORV.,,Klo,neben Tuer
