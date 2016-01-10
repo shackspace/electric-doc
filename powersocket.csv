@@ -1,33 +1,33 @@
 Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicherung, Raumbez-new, Bezeichnung
-1.1,,R50,HUV.,,Werkstatt,Wand
-1.2,,R50,HUV.,,Werkstatt,Wand
-1.3,,R50,HUV.,,Werkstatt,Wand
-1.4,,R50,HUV.,,Werkstatt,Wand
-1.5,,R50,HUV.,,Werkstatt,Wand
-1.6,,R50,HUV.,,Werkstatt,Kabelkanal
-1.7,,R50,HUV.,,Werkstatt,Kabelkanal
-1.8,,R50,HUV.,,Werkstatt,Kabelkanal
-1.9,,R50,HUV.,,Werkstatt,Kabelkanal
-1.10,,R50,HUV.,,Werkstatt,Kabelkanal
-1.11,,R50,HUV.,,Werkstatt,Kabelkanal
-1.12,,R50,HUV.,,Werkstatt,Kabelkanal
-1.13,,R50,HUV.,,Werkstatt,Kabelkanal
-1.14,,R50,HUV.,,Werkstatt,Kabelkanal
-1.15,,R50,HUV.,,Werkstatt,Kabelkanal
-1.16,,R50,HUV.,,Werkstatt,Kabelkanal
+1.1,,R50,HUV.,HUV.F13,Werkstatt,Wand
+1.2,,R50,HUV.,HUV.F13,Werkstatt,Wand
+1.3,,R50,HUV.,HUV.F13,Werkstatt,Wand
+1.4,,R50,HUV.,HUV.F13,Werkstatt,Wand
+1.5,,R50,HUV.,HUV.F13,Werkstatt,Wand
+1.6,,R50,HUV.,HUV.F26,Werkstatt,Kabelkanal
+1.7,,R50,HUV.,HUV.F26,Werkstatt,Kabelkanal
+1.8,,R50,HUV.,HUV.F25,Werkstatt,Kabelkanal
+1.9,,R50,HUV.,HUV.F25,Werkstatt,Kabelkanal
+1.10,,R50,HUV.,HUV.F25,Werkstatt,Kabelkanal
+1.11,,R50,HUV.,HUV.F26,Werkstatt,Kabelkanal
+1.12,,R50,HUV.,HUV.F26,Werkstatt,Kabelkanal
+1.13,,R50,HUV.,HUV.F26,Werkstatt,Kabelkanal
+1.14,,R50,HUV.,HUV.F25,Werkstatt,Kabelkanal
+1.15,,R50,HUV.,HUV.F25,Werkstatt,Kabelkanal
+1.16,,R50,HUV.,HUV.F25,Werkstatt,Kabelkanal
 1.17,,R50,HUV.,,Werkstatt,Wand CEE32A
-1.18,,R50,HUV.,,Werkstatt,Wand unter Stromverteiler
-1.19,,R50,HUV.,,Werkstatt,Wand unter Stromverteiler
+1.18,,R50,HUV.,HUV.F13,Werkstatt,Wand unter Stromverteiler
+1.19,,R50,HUV.,HUV.F13,Werkstatt,Wand unter Stromverteiler
 2.1,,R48,HUV.,,Medialab,Kabelkanal
 2.2,,R48,HUV.,,Medialab,Kabelkanal
 2.3,,R48,HUV.,,Medialab,Kabelkanal
 2.4,,R48,HUV.,,Medialab,Kabelkanal
 2.5,,R48,HUV.,,Medialab,Kabelkanal
 2.6,,R48,HUV.,,Medialab,Kabelkanal
-2.7,,R48,HUV.,,Medialab,Kabelkanal
-2.8,,R48,HUV.,,Medialab,Kabelkanal
-2.9,,R48,HUV.,,Medialab,Kabelkanal
-2.10,,R48,HUV.,,Medialab,Kabelkanal
+2.7,,R48,HUV.,HUV.F27,Medialab,Kabelkanal
+2.8,,R48,HUV.,HUV.F27,Medialab,Kabelkanal
+2.9,,R48,HUV.,HUV.F26,Medialab,Kabelkanal
+2.10,,R48,HUV.,HUV.F26,Medialab,Kabelkanal
 2.11,,R48,HUV.,,Medialab,Kabelkanal
 2.12,,R48,HUV.,,Medialab,Kabelkanal
 2.13,,R48,HUV.,,Medialab,Kabelkanal
@@ -56,34 +56,34 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 5.1,,R42,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
 5.2,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
 5.3,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.4,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.5,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.6,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.7,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.8,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.9,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.10,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.11,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.12,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.13,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.14,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
-5.15,,,HUV.,,Lounge,Kabelkanal Richtung Ulmerstraße
+5.4,,,HUV.,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.5,,,HUV.,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.6,,,HUV.,HUV.F27,Lounge,Kabelkanal Richtung Ulmerstraße
+5.7,,,HUV.,HUV.F27,Lounge,Kabelkanal Richtung Ulmerstraße
+5.8,,,HUV.,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.9,,,HUV.,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.10,,,HUV.,HUV.F27,Lounge,Kabelkanal Richtung Ulmerstraße
+5.11,,,HUV.,HUV.F27,Lounge,Kabelkanal Richtung Ulmerstraße
+5.12,,,HUV.,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.13,,,HUV.,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.14,,,HUV.,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
+5.15,,,HUV.,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
 5.16,-,R43,HUV.STK08,HUV.F32,Lounge,Steckdose WDM
 5.17,-,R43,HUV.STK08,HUV.F32,Lounge,Steckdose WDM
 5.18,,,HUV.STK08,HUV.F32,Lounge,kabelkanal Richtung Neckar
 5.19,,,HUV.,,Lounge,kabelkanal Richtung Neckar
-5.20,,,HUV.,,Lounge,kabelkanal Richtung Neckar
+5.2,,,HUV.,,Lounge,kabelkanal Richtung Neckar
 5.21,,,HUV.,,Lounge,kabelkanal Richtung Neckar
 5.22,,,HUV.STK08,HUV.F32,Lounge,kabelkanal Richtung Neckar
 5.23,,,HUV.STK08,HUV.F32,Lounge,kabelkanal Richtung Neckar
-5.24,,,HUV.,,Lounge,kabelkanal Richtung Neckar
-5.25,,,HUV.,,Lounge,kabelkanal Richtung Neckar
-5.26,,,HUV.,,Lounge,Kabelkanal Richtung Neckar
+5.24,,,HUV.,HUV.F33,Lounge,kabelkanal Richtung Neckar
+5.25,,,HUV.,HUV.F33,Lounge,kabelkanal Richtung Neckar
+5.26,,,HUV.,HUV.F33,Lounge,Kabelkanal Richtung Neckar
 5.27,,,HUV.STK08,HUV.F32,Lounge,Kabelkanal Richtung Neckar
 5.28,,,HUV.STK08,HUV.F32,Lounge,Kabelkanal Richtung Neckar
-5.29,,,HUV.,,Lounge,Kabelkanal Richtung Neckar
-5.30,,,HUV.,,Lounge,Kabelkanal Richtung Neckar
-5.31,,,HUV.,,Lounge,Wand Tuer Lager
+5.29,,,HUV.,HUV.F33,Lounge,Kabelkanal Richtung Neckar
+5.30,,,HUV.,HUV.F33,Lounge,Kabelkanal Richtung Neckar
+5.31,,,HUV.,HUV.F18,Lounge,Wand Tuer Lager
 5.32,,,HUV.STK25,,Lounge,Portal Dauerstrom
 5.33,,,HUV.STK25,,Lounge,Portal Dauerstrom
 5.34,,,HUV.,,Lounge,Ecke Richtung Kueche oben
