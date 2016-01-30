@@ -127,22 +127,22 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 8.17,-,R45,HUV.STK08,HUV.F32,Seminarraum,Wand Richtung Lounge
 8.18,-,R49,HUV.,,Seminarraum,Wand neben tür
 8.19,-,R49,HUV.STK24,NC,Seminarraum,Wand Ecke RZ
-9.1,,R51,,,RZ,Kabelkanal
-9.2,,R51,,,RZ,Kabelkanal
-9.3,,R51,,,RZ,Kabelkanal
-9.4,,R51,,,RZ,Kabelkanal
-9.5,,R51,,,RZ,Kabelkanal
-9.6,,R51,,,RZ,Kabelkanal
-9.7,,R51,,,RZ,Kabelkanal
-9.8,,R51,,,RZ,Wand
-9.9,,R51,,,RZ,Wand
-9.10,,R51,,,RZ,Wand
-9.11,,R51,,,RZ,Wand
-9.12,,R51,,,RZ,Wand
-9.13,,R51,,,RZ,Gitterrinne
-9.14,,R51,,,RZ,Gitterrinne
-9.15,,R51,,,RZ,Gitterrinne
-9.16,,R51,,,RZ,Gitterrinne
+9.1,,R51,,SRV.F10,RZ,Kabelkanal
+9.2,,R51,,SRV.F10,RZ,Kabelkanal
+9.3,,R51,HUV.STK06,HUV.F30,RZ,Kabelkanal
+9.4,,R51,HUV.STK06,HUV.F30,RZ,Kabelkanal
+9.5,,R51,HUV.STK06,HUV.F30,RZ,Kabelkanal
+9.6,,R51,,SRV.F10,RZ,Kabelkanal
+9.7,,R51,,SRV.F10,RZ,Kabelkanal
+9.8,,R51,,SRV.F10,RZ,Wand
+9.9,,R51,,SRV.F10,RZ,Wand
+9.10,,R51,,SRV.F10,RZ,Wand
+9.11,,R51,,SRV.F10,RZ,Wand
+9.12,,R51,,SRV.F10,RZ,Wand
+9.13,,R51,,SRV.F08,RZ,Gitterrinne
+9.14,,R51,,SRV.F09,RZ,Gitterrinne
+9.15,,R51,,SRV.F08,RZ,Gitterrinne
+9.16,,R51,,SRV.F09,RZ,Gitterrinne
 10.1,OR.S2,-,ORV.STK07,,OR1,Wand Tuer
 10.2,-,-,ORV.STK25,,OR1,Aetzecke
 10.3,-,-,ORV.STK25,,OR1,Aetzecke
