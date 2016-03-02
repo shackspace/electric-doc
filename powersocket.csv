@@ -127,13 +127,13 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 8.17,-,R45,HUV.STK08,HUV.F32,Seminarraum,Wand Richtung Lounge
 8.18,-,R49,HUV.,,Seminarraum,Wand neben tür
 8.19,-,R49,HUV.STK24,NC,Seminarraum,Wand Ecke RZ
-9.1,,R51,,SRV.F10,RZ,Kabelkanal
-9.2,,R51,,SRV.F10,RZ,Kabelkanal
-9.3,,R51,HUV.STK06,HUV.F30,RZ,Kabelkanal
-9.4,,R51,HUV.STK06,HUV.F30,RZ,Kabelkanal
-9.5,,R51,HUV.STK06,HUV.F30,RZ,Kabelkanal
-9.6,,R51,,SRV.F10,RZ,Kabelkanal
-9.7,,R51,,SRV.F10,RZ,Kabelkanal
+9.1,S44,R51,,SRV.F10,RZ,Kabelkanal
+9.2,S44,R51,,SRV.F10,RZ,Kabelkanal
+9.3,S43,R51,HUV.STK06,HUV.F30,RZ,Kabelkanal
+9.4,S42,R51,HUV.STK07,HUV.F30,RZ,Kabelkanal
+9.5,S42,R51,HUV.STK07,HUV.F30,RZ,Kabelkanal
+9.6,S41,R51,,SRV.F10,RZ,Kabelkanal
+9.7,S41,R51,,SRV.F10,RZ,Kabelkanal
 9.8,,R51,,SRV.F10,RZ,Wand
 9.9,,R51,,SRV.F10,RZ,Wand
 9.10,,R51,,SRV.F10,RZ,Wand
