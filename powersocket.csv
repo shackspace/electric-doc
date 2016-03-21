@@ -84,8 +84,8 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 5.29,,,HUV.,HUV.F33,Lounge,Kabelkanal Richtung Neckar
 5.30,,,HUV.,HUV.F33,Lounge,Kabelkanal Richtung Neckar
 5.31,,,HUV.,HUV.F18,Lounge,Wand Tuer Lager
-5.32,,,HUV.STK25,,Lounge,Portal Dauerstrom
-5.33,,,HUV.STK25,,Lounge,Portal Dauerstrom
+5.32,,,HUV.STK25,HUV.F09,Lounge,BR-Kanal Portal Dauerstrom
+5.33,,,HUV.STK25,HUV.F09,Lounge,BR-Kanal Portal Dauerstrom
 5.34,,,HUV.,,Lounge,Ecke Richtung Kueche oben
 5.35,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
 5.36,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
@@ -97,6 +97,14 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 5.42,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
 5.43,-,-,HUV.,,Lounge,Ecke Richtung Kueche unten
 5.44,-,-,HUV.,,Lounge,CEE 32A
+5.45,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
+5.46,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
+5.47,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
+5.48,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
+5.49,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
+5.50,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
+5.51,-,-,HUV.STK12,HUV.F07,Lounge,BR-Kanal Tuer Dauerstrom Automat
+5.52,-,-,HUV.STK12,HUV.F07,Lounge,BR-Kanal Tuer Dauerstrom Automat
 6.1,S47,-,HUV.STK10,HUV.F34,Treppenhaus Musiker,Kabelkanal
 6.2,S47,-,HUV.STK10,HUV.F34,Treppenhaus Musiker,Kabelkanal
 6.3,S48,-,HUV.STK10,HUV.F35,Treppenhaus Musiker,Kabelkanal
