@@ -259,11 +259,12 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 17.26,-,-,ORV.STK22,ORV.F44,Kueche Bistro,In der Tresenbeleuchtung
 17.27,-,-,ORV.STK22,ORV.F44,Kueche Bistro,In der Tresenbeleuchtung
 17.28,-,-,ORV.STK22,ORV.F44,Kueche Bistro,In der Tresenbeleuchtung
-17.- ,-,-,ORV.STK03,ORV.F43,Kueche Bistro,Spülmaschine
+17.29,-,-,ORV.STK03,ORV.F43,Kueche Bistro,Spülmaschine
+17.30,S51,-,HUV.STK21,HUV.F23,Kueche Bistro,Kueche wenn man reinkommt gleich rechts auf Kniehoehe
 18.1,-,-,,,Klo,am Spiegellicht
 18.2,-,-,ORV.,,Klo,neben Tuer
 18.3,-,-,ORV.,,Klo,neben Tuer
 18.4,-,-,ORV.,,Klo,ueber DLE
 18.5,-,-,ORV.,,Klo,ueber DLE
-19.1,-,-,,,Aufzugsvorraum,Wand
-19.2,-,-,,,Aufzugsvorraum,Wand
+19.1,S52,-,HUV.STK21,HUV.F23,Aufzugsvorraum,Wand
+19.2,S52,-,HUV.STK21,HUV.F23,Aufzugsvorraum,Wand
