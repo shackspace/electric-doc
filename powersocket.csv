@@ -228,9 +228,9 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 15.1,OR.S1,-,ORV.STK06,ORV.F05,OR-Flur,Wand
 15.2,-,-,ORV.STK06,ORV.F05,OR-Flur,Wand hinten links
 15.3,-,-,ORV.STK06,ORV.F05,OR-Flur,Wand hinten links
-16.1,,-,HUV,,Main-Flur,Wand
-16.2,,-,HUV,,Main-Flur,Wand
-16.3,,-,HUV,,Main-Flur,Wand
+16.1,-,-,HUV.STK19,HUV.F20,Main-Flur,Wand
+16.2,-,-,HUV.STK19,HUV.F20,Main-Flur,Wand
+16.3,-,-,HUV.STK19,HUV.F20,Main-Flur,Wand
 17.1,S49,-,HUV.STK10,HUV.F34,Kueche Bistro,Kabelkanal Fenster
 17.2,S49,-,HUV.STK10,HUV.F34,Kueche Bistro,Kabelkanal Fenster
 17.3,S50,-,HUV.STK11,HUV.F35,Kueche Bistro,Kabelkanal Fenster
