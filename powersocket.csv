@@ -151,86 +151,86 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 9.14,,R51,,SRV.F09,RZ,Gitterrinne
 9.15,,R51,,SRV.F08,RZ,Gitterrinne
 9.16,,R51,,SRV.F09,RZ,Gitterrinne
-10.1,OR.S2,-,ORV.STK07,,OR1,Wand Tuer
-10.2,-,-,ORV.STK25,,OR1,Aetzecke
-10.3,-,-,ORV.STK25,,OR1,Aetzecke
-10.4,-,-,ORV.STK25,,OR1,Aetzecke
-10.5,-,-,ORV.STK25,,OR1,Aetzecke
+10.1,OR.S2,-,ORV.STK07,ORV.F05,OR1,Wand Tuer
+10.2,-,-,ORV.STK25,ORV.F51,OR1,Aetzecke
+10.3,-,-,ORV.STK25,ORV.F51,OR1,Aetzecke
+10.4,-,-,ORV.STK25,ORV.F51,OR1,Aetzecke
+10.5,-,-,ORV.STK25,ORV.F51,OR1,Aetzecke
 10.6,-,-,ORV.STK01,ORV.F41,OR1,unterhalb DLE
-10.7,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
-10.8,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
-10.9,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
-10.10,-,-,ORV.STK23,,OR1,Kabelkanal Richtung Kueche
-10.11,OR.S3,-,ORV.STK10,,OR1,OR1.2 Kabelkanal Fenster
-10.12,OR.S4,-,ORV.STK10,,OR1,OR1.2 Kabelkanal Fenster
-10.13,OR.S5,-,ORV.STK09,,OR1,OR1.1 Kabelkanal Fenster
-10.14,OR.S6,-,ORV.STK09,,OR1,OR1.1 Kabelkanal Fenster
-10.15,OR.S7,-,ORV.STK09,,OR1,OR1.1 Kabelkanal Fenster
-10.16,OR.S8,-,ORV.STK09,,OR1,OR1.1 Kabelkanal Fenster
-10.17,-,-,ORV.STK25,,OR1,Dauerstrom 19 Zoll Rack
-10.18,-,-,ORV.STK25,,OR1,Dauerstrom 19 Zoll Rack
-11.1,OR.S9,-,,,OR2,Wand Richtung OR1
-11.2,OR.S10,-,,,OR2,Kabelkanal Fenster
-11.3,OR.S11,-,,,OR2,Kabelkanal Fenster
-11.4,OR.S12,-,,,OR2,Kabelkanal Fenster
-11.5,OR.S13,-,,,OR2,Kabelkanal Fenster
-11.6,OR.S14,-,,,OR2,Kabelkanal Fenster
-11.7,OR.S15,-,,,OR2,Kabelkanal Fenster
-11.8,OR.S16,-,,,OR2,Kabelkanal Fenster
-11.9,OR.S17,-,,,OR2,Kabelkanal Fenster
-11.10,OR.S18,-,,,OR2,Wand Richtung OR3
-11.11,-,-,ORV.STK17/18,,OR2,Wand Fenster CEE16
-12.1,OR.S21,,-,,OR3,
-12.2,OR.S22,,-,,OR3,
-12.3,OR.S23,,-,,OR3,
-12.4,OR.S24,,-,,OR3,
-12.5,OR.S25,,-,,OR3,
-12.6,OR.S26,,-,,OR3,
-12.7,OR.S27,,-,,OR3,
-12.8,OR.S28,,-,,OR3,
-12.9,-,-,,,OR3,Stickmaschine rechts
-12.10,-,-,,,OR3,Stickmaschine rechts
-12.11,-,-,,,OR3,Stickmaschine rechts
-12.12,-,-,,,OR3,Stickmaschine links
-12.13,-,-,,,OR3,Stickmaschine links
-12.14,-,-,,,OR3,Stickmaschine links
-12.15,-,-,,,OR3,Wand neben Tuer
-12.16,-,-,,,OR3,Wand neben Tuer
-13.1,OR.S29,-,,,OR4,Kabelkanal Fenster
-13.2,OR.S30,-,,,OR4,Kabelkanal Fenster
-13.3,OR.S31,-,,,OR4,Kabelkanal Fenster
-13.4,OR.S32,-,,,OR4,Kabelkanal Fenster
-13.5,OR.S33,-,,,OR4,Kabelkanal Fenster
-13.6,OR.S34,-,,,OR4,Kabelkanal Fenster
-13.7,OR.S35,-,,,OR4,Kabelkanal Fenster
-13.8,OR.S36,-,,,OR4,Kabelkanal Fenster
-13.9,OR.S37,-,,,OR,Kabelkanal Fenster
-13.10,OR.S38,-,,,OR,Kabelkanal Fenster
-13.11,OR.S39,-,,,OR,Kabelkanal Fenster
-13.12,-,-,ORV.STK24,,OR4,Kabelkanal Fenster Dauerstrom
-13.13,-,-,ORV.STK24,,OR4,Kabelkanal Fenster Dauerstrom
-13.14,-,-,ORV.STK24,,OR4,Kabelkanal Fenster Dauerstrom
-13.15,OR.S40,-,,,OR4,Kabelkanal Fenster
-13.16,OR.S41,-,,,OR4,Kabelkanal Fenster
-13.17,OR.S42,-,,,OR4,Kabelkanal Fenster
-13.18,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
-13.19,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
-13.20,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
-13.21,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
-13.22,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
-13.23,-,-,Unbekannt NC,,OR4,Wand neben TK-Verteilung
-13.24,OR.S43,-,,,OR4,Kabelkanal Ecke
-13.25,OR.S44,-,,,OR4,Kabelkanal Ecke
-13.26,OR.S45,-,,,OR4,Kabelkanal Ecke
-14.1,OR.S19,-,,,OR Minilager,Neben Lichtschalter
-14.2,OR.S20,-,,,OR Minilager,Neben Lichtschalter
-14.3,-,-,,,OR Minilager,Steckdose NC oben
-15.1,OR.S1,-,,,OR-Flur,Wand
-15.2,-,-,,,OR-Flur,Wand hinten links
-15.3,-,-,,,OR-Flur,Wand hinten links
-16.1,,-,,,Main-Flur,Wand
-16.2,,-,,,Main-Flur,Wand
-16.3,,-,,,Main-Flur,Wand
+10.7,-,-,ORV.STK23,ORV.F59,OR1,Kabelkanal Richtung Kueche
+10.8,-,-,ORV.STK23,ORV.F59,OR1,Kabelkanal Richtung Kueche
+10.9,-,-,ORV.STK23,ORV.F59,OR1,Kabelkanal Richtung Kueche
+10.10,-,-,ORV.STK23,ORV.F59,OR1,Kabelkanal Richtung Kueche
+10.11,OR.S3,-,ORV.STK10,ORV.F52,OR1,OR1.2 Kabelkanal Fenster
+10.12,OR.S4,-,ORV.STK10,ORV.F52,OR1,OR1.2 Kabelkanal Fenster
+10.13,OR.S5,-,ORV.STK09,ORV.F51,OR1,OR1.1 Kabelkanal Fenster
+10.14,OR.S6,-,ORV.STK09,ORV.F51,OR1,OR1.1 Kabelkanal Fenster
+10.15,OR.S7,-,ORV.STK09,ORV.F51,OR1,OR1.1 Kabelkanal Fenster
+10.16,OR.S8,-,ORV.STK09,ORV.F51,OR1,OR1.1 Kabelkanal Fenster
+10.17,-,-,ORV.STK25,ORV.F61,OR1,Dauerstrom 19 Zoll Rack
+10.18,-,-,ORV.STK25,ORV.F61,OR1,Dauerstrom 19 Zoll Rack
+11.1,OR.S9,-,ORV.STK12,ORV.F54,OR2,Wand Richtung OR1
+11.2,OR.S10,-,ORV.STK12,ORV.F54,OR2,Kabelkanal Fenster
+11.3,OR.S11,-,ORV.STK12,ORV.F54,OR2,Kabelkanal Fenster
+11.4,OR.S12,-,ORV.STK11,ORV.F53,OR2,Kabelkanal Fenster
+11.5,OR.S13,-,ORV.STK11,ORV.F53,OR2,Kabelkanal Fenster
+11.6,OR.S14,-,ORV.STK11,ORV.F53,OR2,Kabelkanal Fenster
+11.7,OR.S15,-,ORV.STK11,ORV.F53,OR2,Kabelkanal Fenster
+11.8,OR.S16,-,ORV.STK11,ORV.F53,OR2,Kabelkanal Fenster
+11.9,OR.S17,-,ORV.STK11,ORV.F53,OR2,Kabelkanal Fenster
+11.10,OR.S18,-,ORV.STK6,ORV.F05,OR2,Wand Richtung OR3
+11.11,-,-,ORV.STK17/18,ORV.F50,OR2,Wand Fenster CEE16
+12.1,OR.S21,-,ORV.STK14,ORV.F56,OR3,Kabelkanal
+12.2,OR.S22,-,ORV.STK14,ORV.F56,OR3,Kabelkanal
+12.3,OR.S23,-,ORV.STK14,ORV.F56,OR3,Kabelkanal
+12.4,OR.S24,-,ORV.STK14,ORV.F56,OR3,Kabelkanal
+12.5,OR.S25,-,ORV.STK14,ORV.F56,OR3,Kabelkanal
+12.6,OR.S26,-,ORV.STK13,ORV.F55,OR3,Kabelkanal
+12.7,OR.S27,-,ORV.STK13,ORV.F55,OR3,Kabelkanal
+12.8,OR.S28,-,ORV.STK13,ORV.F55,OR3,Kabelkanal
+12.9,-,-,ORV.STK13,ORV.F55,OR3,Stickmaschine rechts
+12.10,-,-,ORV.STK13,ORV.F55,OR3,Stickmaschine rechts
+12.11,-,-,ORV.STK13,ORV.F55,OR3,Stickmaschine rechts
+12.12,-,-,ORV.STK13,ORV.F55,OR3,Stickmaschine links
+12.13,-,-,ORV.STK13,ORV.F55,OR3,Stickmaschine links
+12.14,-,-,ORV.STK13,ORV.F55,OR3,Stickmaschine links
+12.15,-,-,ORV.STK15,ORV.F57,OR3,Wand neben Tuer
+12.16,-,-,ORV.STK15,ORV.F57,OR3,Wand neben Tuer
+13.1,OR.S29,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.2,OR.S30,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.3,OR.S31,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.4,OR.S32,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.5,OR.S33,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.6,OR.S34,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.7,OR.S35,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.8,OR.S36,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
+13.9,OR.S37,-,ORV.STK16,ORV.F58,OR,Kabelkanal Fenster
+13.10,OR.S38,-,ORV.STK16,ORV.F58,OR,Kabelkanal Fenster
+13.11,OR.S39,-,ORV.STK16,ORV.F58,OR,Kabelkanal Fenster
+13.12,-,-,ORV.STK24,ORV.F60,OR4,Kabelkanal Fenster Dauerstrom
+13.13,-,-,ORV.STK24,ORV.F60,OR4,Kabelkanal Fenster Dauerstrom
+13.14,-,-,ORV.STK24,ORV.F60,OR4,Kabelkanal Fenster Dauerstrom
+13.15,OR.S40,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
+13.16,OR.S41,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
+13.17,OR.S42,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
+13.18,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
+13.19,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
+13.20,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
+13.21,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
+13.22,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
+13.23,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
+13.24,OR.S43,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
+13.25,OR.S44,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
+13.26,OR.S45,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
+14.1,OR.S19,-,ORV.STK06,ORV.F05,OR Minilager,Neben Lichtschalter
+14.2,OR.S20,-,ORV.STK06,ORV.F05,OR Minilager,Neben Lichtschalter
+14.3,-,-,-,-,OR Minilager,Steckdose NC oben
+15.1,OR.S1,-,ORV.STK06,ORV.F05,OR-Flur,Wand
+15.2,-,-,ORV.STK06,ORV.F05,OR-Flur,Wand hinten links
+15.3,-,-,ORV.STK06,ORV.F05,OR-Flur,Wand hinten links
+16.1,,-,HUV,,Main-Flur,Wand
+16.2,,-,HUV,,Main-Flur,Wand
+16.3,,-,HUV,,Main-Flur,Wand
 17.1,S49,-,HUV.STK10,HUV.F34,Kueche Bistro,Kabelkanal Fenster
 17.2,S49,-,HUV.STK10,HUV.F34,Kueche Bistro,Kabelkanal Fenster
 17.3,S50,-,HUV.STK11,HUV.F35,Kueche Bistro,Kabelkanal Fenster
@@ -248,8 +248,8 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 17.15,-,-,ORV.STK02,ORV.F42,Kueche Bistro,unter der Spüle
 17.16,-,-,ORV.STK19,ORV.F09,Kueche Bistro,Kühlschrank
 17.17,-,-,ORV.STK19,ORV.F09,Kueche Bistro,Kühlschrank
-17.18,-,-,,,Kueche Bistro,Vorratslager Wand richtung Lounge
-17.19,-,-,,,Kueche Bistro,Vorratslager Wand richtung Lounge
+17.18,-,-,Unbekannt NC,-,Kueche Bistro,Vorratslager Wand richtung Lounge
+17.19,-,-,Unbekannt NC,-,Kueche Bistro,Vorratslager Wand richtung Lounge
 17.20,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Vorratslager Wand richtung Tresen
 17.21,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Vorratslager Wand richtung Tresen
 17.22,-,-,ORV.STK22,ORV.F44,Kueche Bistro,Tresen
@@ -263,9 +263,9 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 17.30,S51,-,HUV.STK21,HUV.F23,Kueche Bistro,Kueche wenn man reinkommt gleich rechts auf Kniehoehe
 17.31,-,-,HUV.STK21,HUV.F23,Kueche Bistro,oben in Tresenbeleuchtung
 18.1,-,-,HUV.STK20,HUV.F21,Klo,am Spiegellicht - demontiert
-18.2,-,-,ORV.,,Klo,neben Tuer
-18.3,-,-,ORV.,,Klo,neben Tuer
-18.4,-,-,ORV.,,Klo,ueber DLE
-18.5,-,-,ORV.,,Klo,ueber DLE
+18.2,-,-,ORV.STK08,ORV.F45,Klo,neben Tuer
+18.3,-,-,ORV.STK08,ORV.F45,Klo,neben Tuer
+18.4,-,-,ORV.STK08,ORV.F45,Klo,ueber DLE
+18.5,-,-,ORV.STK08,ORV.F45,Klo,ueber DLE
 19.1,S52,-,HUV.STK21,HUV.F23,Aufzugsvorraum,Wand
 19.2,S52,-,HUV.STK21,HUV.F23,Aufzugsvorraum,Wand
