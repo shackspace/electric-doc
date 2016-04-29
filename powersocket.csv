@@ -56,18 +56,18 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 5.1,S17,R42,HUV.STK12,HUV.F07,Lounge,Kabelkanal Richtung Ulmerstraße
 5.2,S17,R42,HUV.STK12,HUV.F07,Lounge,Kabelkanal Richtung Ulmerstraße
 5.3,S17,R42,HUV.STK12,HUV.F07,Lounge,Kabelkanal Richtung Ulmerstraße
-5.4,,R42,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
-5.5,,R42,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
-5.6,,R42,HUV.STK03,HUV.F27,Lounge,Kabelkanal Richtung Ulmerstraße
-5.7,,R42,HUV.STK03,HUV.F27,Lounge,Kabelkanal Richtung Ulmerstraße
-5.8,,R40,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
-5.9,,R40,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
-5.10,,R40,HUV.STK03,HUV.F27,Lounge,Kabelkanal Richtung Ulmerstraße
-5.11,,R40,HUV.STK03,HUV.F27,Lounge,Kabelkanal Richtung Ulmerstraße
-5.12,,R38,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
-5.13,,R38,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
-5.14,,R38,HUV.STK05,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
-5.15,,R38,HUV.STK05,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
+5.4,S18,R42,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.5,S18,R42,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.6,S19,R42,HUV.STK05,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
+5.7,S19,R42,HUV.STK05,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
+5.8,S20,R40,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.9,S20,R40,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.10,S21,R40,HUV.STK05,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
+5.11,S21,R40,HUV.STK05,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
+5.12,S22,R38,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.13,S22,R38,HUV.STK04,HUV.F28,Lounge,Kabelkanal Richtung Ulmerstraße
+5.14,S23,R38,HUV.STK05,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
+5.15,S23,R38,HUV.STK05,HUV.F29,Lounge,Kabelkanal Richtung Ulmerstraße
 5.16,-,R43,HUV.STK08,HUV.F32,Lounge,Steckdose WDM
 5.17,-,R43,HUV.STK08,HUV.F32,Lounge,Steckdose WDM
 5.18,S45,R43,HUV.STK08,HUV.F32,Lounge,kabelkanal Richtung Neckar
