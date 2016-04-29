@@ -1,23 +1,23 @@
 Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicherung, Raumbez-new, Bezeichnung
-1.1,,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
-1.2,,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
-1.3,,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
-1.4,,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
-1.5,,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
-1.6,,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
-1.7,,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
-1.8,,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
-1.9,,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
-1.10,,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
-1.11,,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
-1.12,,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
-1.13,,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
-1.14,,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
-1.15,,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
-1.16,,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
-1.17,,R50,HUV.,,Werkstatt,Wand CEE32A
-1.18,,R50,HUV.STK13,HUV.F13,Werkstatt,Wand unter Stromverteiler
-1.19,,R50,HUV.STK13,HUV.F13,Werkstatt,Wand unter Stromverteiler
+1.1,-,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
+1.2,-,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
+1.3,-,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
+1.4,-,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
+1.5,-,R50,HUV.STK13,HUV.F13,Werkstatt,Wand
+1.6,S01,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
+1.7,S01,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
+1.8,S02,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
+1.9,S02,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
+1.10,S02,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
+1.11,S03,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
+1.12,S03,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
+1.13,S03,R50,HUV.STK02,HUV.F26,Werkstatt,Kabelkanal
+1.14,S04,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
+1.15,S04,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
+1.16,S04,R50,HUV.STK01,HUV.F25,Werkstatt,Kabelkanal
+1.17,-,R50,HUV.STK29,-,Werkstatt,Wand CEE32A
+1.18,-,R50,HUV.STK13,HUV.F13,Werkstatt,Wand unter Stromverteiler
+1.19,-,R50,HUV.STK13,HUV.F13,Werkstatt,Wand unter Stromverteiler
 2.1,S09,R48,HUV.STK12,HUV.F07,Medialab,Kabelkanal
 2.2,S09,R48,HUV.STK12,HUV.F07,Medialab,Kabelkanal
 2.3,S09,R48,HUV.STK12,HUV.F07,Medialab,Kabelkanal
@@ -96,7 +96,7 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 5.41,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
 5.42,-,-,HUV.STK27,HUV.F31,Lounge,Raummitte Saeule
 5.43,-,-,HUV.STK21,HUV.F23,Lounge,Ecke Richtung Kueche unten
-5.44,-,-,HUV.,,Lounge,CEE 32A
+5.44,-,R43,HUV.STK28,-,Lounge,CEE 32A
 5.45,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
 5.46,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
 5.47,-,-,HUV.STK27,HUV.F31,Lounge,BR-Kanal ueber Eingangstuer
