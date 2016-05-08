@@ -1,3 +1,5 @@
 node_modules
 *.pdf
 *.*~
+data/powersocket.csv
+data/shack_logo.svg
