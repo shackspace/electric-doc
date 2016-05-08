@@ -26,16 +26,16 @@ var socket_list = function(list) {
 				}
 				if ( end !== val[j] ) {
 					if(start===end)
-						retval.push(i + '.' + start);					
+						retval.push(i + '.' + start);
 					else
-						retval.push(i + '.' + start + '-' + i + '.' + end);					
+						retval.push(i + '.' + start + '-' + end);
 					start = end = val[j];
 				}
 				if ( (j+1)===val.length) {
 					if(start===end)
-						retval.push(i + '.' + start);					
+						retval.push(i + '.' + start);
 					else
-						retval.push(i + '.' + start + '-' + i + '.' + end);					
+						retval.push(i + '.' + start + '-' + end);
 				}
 			}
 		}
