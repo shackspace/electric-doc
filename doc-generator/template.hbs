@@ -4,11 +4,13 @@ table, tbody, th, td {
 	border: 1px solid;
 	border-collapse: collapse;
 	padding: 1px;
-	font-size: 20px;	
+	font-size: 18px;
 }
 body {
-	font-size: 16px;	
+	font-size: 16px;
 	font-family: sans-serif;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 </style>
 
@@ -16,14 +18,19 @@ body {
 <img src="{{path}}/data/shack_logo.svg" width="300" style="float:right">
 <h1> <br>Belegung:<br>Hauptunterverteiler links</h1>
 
-<br><br>
+<br>
 
 <table width="100%">
 <tr><th>Sicherung<br>Nummer</th><th>Netzsch&uumltz<br>geschaltet</th><th>Raum/Ort</th><th>Bezeichnung</th></tr>
-{{#each huv_left}}<tr>
+{{#each huv_left}}
+<tr>
 	<td>{{nr}}</td>
 	<td>{{#if switched}}X{{/if}}</td>
 	<td>{{room}}</td>
-	<td>{{name}}</td>
-</tr>{{/each}}</table>
+	<td>{{name}}{{#if socket_list}},&nbsp;&nbsp;{{socket_list}}{{/if}}</td>
+</tr>
+{{/each}}
+</table>
+<br>
+<div style="float: right;">{{date}}</div>
 </body>
