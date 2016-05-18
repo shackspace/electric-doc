@@ -152,10 +152,10 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 9.15,-,R51,-,SRV.F08,RZ,Gitterrinne
 9.16,-,R51,-,SRV.F09,RZ,Gitterrinne
 10.1,OR.S2,-,ORV.STK07,ORV.F05,OR1,Wand Tuer
-10.2,-,-,ORV.STK25,ORV.F51,OR1,Aetzecke
-10.3,-,-,ORV.STK25,ORV.F51,OR1,Aetzecke
-10.4,-,-,ORV.STK25,ORV.F51,OR1,Aetzecke
-10.5,-,-,ORV.STK25,ORV.F51,OR1,Aetzecke
+10.2,-,-,ORV.STK26,ORV.F51,OR1,Aetzecke
+10.3,-,-,ORV.STK26,ORV.F51,OR1,Aetzecke
+10.4,-,-,ORV.STK26,ORV.F51,OR1,Aetzecke
+10.5,-,-,ORV.STK26,ORV.F51,OR1,Aetzecke
 10.6,-,-,ORV.STK01,ORV.F41,OR1,unterhalb DLE
 10.7,-,-,ORV.STK23,ORV.F59,OR1,Kabelkanal Richtung Kueche
 10.8,-,-,ORV.STK23,ORV.F59,OR1,Kabelkanal Richtung Kueche
