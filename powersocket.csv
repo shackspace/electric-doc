@@ -196,6 +196,8 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 12.14,-,-,ORV.STK13,ORV.F55,OR3,Stickmaschine links
 12.15,-,-,ORV.STK15,ORV.F57,OR3,Wand neben Tuer
 12.16,-,-,ORV.STK15,ORV.F57,OR3,Wand neben Tuer
+12.17,-,-,ORV.STK24,ORV.F60,OR3,Wand neben Tuer Dauerstrom
+12.18,-,-,ORV.STK24,ORV.F60,OR3,Wand neben Tuer Dauerstrom
 13.1,OR.S29,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
 13.2,OR.S30,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
 13.3,OR.S31,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
