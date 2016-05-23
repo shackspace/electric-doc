@@ -24,7 +24,7 @@ F56    Leitungsschutzschalter 16     Leitungsschutzschalter OR3.2
 F57    Leitungsschutzschalter 16     Leitungsschutzschalter OR4.1                                        
 F58    Leitungsschutzschalter 16     Leitungsschutzschalter OR4.2                                        
 F59    Leitungsschutzschalter 16     OR1 Steckdosen Wand Küche                                           
-F60    Leitungsschutzschalter 16     OR4 Laser Dauerstrom                                                
+F60    Leitungsschutzschalter 16     OR3 / OR4 Dauerstrom                                                
 F61    Leitungsschutzschalter 16     OR1 Netzwerkrack/Switch Dauerstrom                                  
 Q01    Ausschalter            63     Ausschalter Gesamt                                                  
 Q02    Schütz                 40     Schütz Durchlauferhitzer Dusche                                     
