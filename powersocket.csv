@@ -198,29 +198,6 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 12.16,-,-,ORV.STK15,ORV.F57,OR3,Wand neben Tuer
 12.17,-,-,ORV.STK24,ORV.F60,OR3,Wand neben Tuer Dauerstrom
 12.18,-,-,ORV.STK24,ORV.F60,OR3,Wand neben Tuer Dauerstrom
-13.1,OR.S29,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
-13.2,OR.S30,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
-13.3,OR.S31,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
-13.4,OR.S32,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
-13.5,OR.S33,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
-13.6,OR.S34,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
-13.7,OR.S35,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
-13.8,OR.S36,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
-13.9,OR.S37,-,ORV.STK16,ORV.F58,OR,Kabelkanal Fenster
-13.10,OR.S38,-,ORV.STK16,ORV.F58,OR,Kabelkanal Fenster
-13.11,OR.S39,-,ORV.STK16,ORV.F58,OR,Kabelkanal Fenster
-13.12,-,-,ORV.STK24,ORV.F60,OR4,Kabelkanal Fenster Dauerstrom
-13.13,-,-,ORV.STK24,ORV.F60,OR4,Kabelkanal Fenster Dauerstrom
-13.14,-,-,ORV.STK24,ORV.F60,OR4,Kabelkanal Fenster Dauerstrom
-13.15,OR.S40,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
-13.16,OR.S41,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
-13.17,OR.S42,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
-13.18,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
-13.19,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
-13.20,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
-13.21,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
-13.22,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
-13.23,-,-,Unbekannt NC,-,OR4,Wand neben TK-Verteilung
 13.24,OR.S43,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
 13.25,OR.S44,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
 13.26,OR.S45,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
