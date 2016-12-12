@@ -198,6 +198,21 @@ Steckdosenbezeichnung, Steckdosennr-old, Raum-old, Stromkreisbezeichnung, Sicher
 12.16,-,-,ORV.STK15,ORV.F57,OR3,Wand neben Tuer
 12.17,-,-,ORV.STK24,ORV.F60,OR3,Wand neben Tuer Dauerstrom
 12.18,-,-,ORV.STK24,ORV.F60,OR3,Wand neben Tuer Dauerstrom
+13.1,-,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.2,-,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Fenster
+13.3,-,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
+13.4,-,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
+13.5,-,-,ORV.STK24,ORV.F60,OR4,Kabelkanal Fenster
+13.6,-,-,ORV.STK24,ORV.F60,OR4,Kabelkanal Fenster
+13.7,-,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
+13.8,-,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Fenster
+13.9,-,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Wand ri.Ulm.Str.
+13.10,-,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Wand ri.Ulm.Str.
+13.11,-,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Wand ri.Ulm.Str.
+13.12,-,-,ORV.STK16,ORV.F58,OR4,Kabelkanal Wand ri.Ulm.Str.
+13.13,-,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Wand ri.Ulm.Str.
+13.14,-,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Wand ri.Ulm.Str.
+13.15,-,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Wand ri.Ulm.Str.
 13.24,OR.S43,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
 13.25,OR.S44,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
 13.26,OR.S45,-,ORV.STK15,ORV.F57,OR4,Kabelkanal Ecke
