@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="160130_hauptunterverteiler_dauerstrom.svg">
+   sodipodi:docname="dauerstrom.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.7995501"
-     inkscape:cx="69.118328"
-     inkscape:cy="1017.1899"
+     inkscape:zoom="2.7575574"
+     inkscape:cx="379.61151"
+     inkscape:cy="871.08904"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,10 +54,10 @@
      id="layer1">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#803300;stroke-width:0.96542346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 360.8509,138.93212 -0.33271,-1.42926 c -0.11091,-0.11909 -0.26257,-0.20665 -0.33271,-0.35731 1.41558,-50.26663 0.62234,-49.87435 -19.8153,-50.45294 C 316.55667,86.13428 210.42091,86.47709 210.23527,86.41066 63.885009,86.09383 66.586648,79.41763 66.003662,131.40896 c -0.05534,0.17832 0.09708,0.40751 0,0.5639 -0.274607,0.44236 -0.700106,0.75186 -1.050155,1.1278"
+       d="M 361.63604,133.15651 C 363.05162,82.889882 360.80782,87.2712 340.37018,86.69261 316.55667,86.13428 210.42091,86.47709 210.23527,86.41066 63.885009,86.09383 66.586648,79.41763 66.003662,131.40896 c -0.05534,0.17832 0.09708,0.40751 0,0.5639 -0.274607,0.44236 -0.700106,0.75186 -1.050155,1.1278"
        id="path3352-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccc" />
     <rect
        style="fill:none;stroke:#000000;stroke-opacity:1"
        id="rect4215-2-0-6-7"
@@ -153,7 +153,7 @@
        y="133.87274" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:1.0813241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 381.43182,188.72919 c -0.22567,21.26971 7.91753,15.9847 7.91753,15.9847 0,0 16.53125,10.23961 16.52026,-65.8117"
+       d="m 381.43182,188.72919 c -0.22567,21.26971 7.55489,11.63302 7.55489,11.63302 0,0 16.53125,10.23961 16.52026,-65.8117"
        id="path4401-3-1-7-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -209,7 +209,12 @@
          sodipodi:role="line"
          id="tspan4630-4"
          x="87.075226"
-         y="166.84399">NT</tspan></text>
+         y="166.84399">NT</tspan><tspan
+         sodipodi:role="line"
+         x="87.075226"
+         y="179.34399"
+         id="tspan4337"
+         style="font-size:7.5px">12V</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -242,28 +247,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="188.07625"
-       y="155.98871"
+       x="301.21985"
+       y="152.3623"
        id="text4628-3-3-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="188.07625"
-         y="155.98871"
-         id="tspan4650-2-7"
-         style="font-size:7.5px">FI/LS</tspan><tspan
-         sodipodi:role="line"
-         x="188.07625"
-         y="165.36371"
-         id="tspan3436"
-         style="font-size:7.5px">B16</tspan><tspan
-         sodipodi:role="line"
-         x="188.07625"
-         y="174.73871"
+         x="301.21985"
+         y="152.3623"
          id="tspan3438"
-         style="font-size:7.5px">30mA</tspan><tspan
+         style="font-size:7.5px">Netzschütz</tspan><tspan
          sodipodi:role="line"
-         x="188.07625"
-         y="184.11371"
+         x="301.21985"
+         y="161.7373"
+         style="font-size:7.5px"
+         id="tspan4221">schaltbarer</tspan><tspan
+         sodipodi:role="line"
+         x="301.21985"
+         y="171.1123"
+         style="font-size:7.5px"
+         id="tspan4223">strom</tspan><tspan
+         sodipodi:role="line"
+         x="301.21985"
+         y="180.4873"
          id="tspan3440" /></text>
     <text
        xml:space="preserve"
@@ -383,5 +388,81 @@
        id="path4307-6-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="188.20187"
+       y="143.46954"
+       id="text4628-3-3-6-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="188.20187"
+         y="143.46954"
+         id="tspan4650-2-7-6"
+         style="font-size:7.5px">FI/LS</tspan><tspan
+         sodipodi:role="line"
+         x="188.20187"
+         y="152.84454"
+         id="tspan3436-7"
+         style="font-size:7.5px">B16</tspan><tspan
+         sodipodi:role="line"
+         x="188.20187"
+         y="162.21954"
+         id="tspan3438-5"
+         style="font-size:7.5px">30mA</tspan><tspan
+         sodipodi:role="line"
+         x="188.20187"
+         y="171.59454"
+         id="tspan3440-3" /></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 290.8371,236.42271 0,-205.254122"
+       id="path4225"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="309.40353"
+       y="39.973572"
+       id="text4628-3-3-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="309.40353"
+         y="39.973572"
+         id="tspan3440-12">rechte Seite</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="219.76978"
+       y="39.973572"
+       id="text4628-3-3-6-5-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="219.76978"
+         y="39.973572"
+         id="tspan3440-12-0">linke Seite</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="355.37222"
+       y="164.20592"
+       id="text4628-3-3-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="355.37222"
+         y="164.20592"
+         id="tspan3440-6">16</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="375.62323"
+       y="163.54584"
+       id="text4628-3-3-6-9-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="375.62323"
+         y="163.54584"
+         id="tspan3440-6-6">17</tspan></text>
   </g>
 </svg>
